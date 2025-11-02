@@ -1,0 +1,7 @@
+optimizer: Adam
+lr: 0.01
+betas: (0.0, 1.0)
+batch_size: 512
+num_repeats: 3
+num_epochs: 2000
+seed: 37

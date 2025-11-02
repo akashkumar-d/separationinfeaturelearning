@@ -1,0 +1,6 @@
+optimizer: SGD
+lr: 0.01
+batch_size: 64
+num_repeats: 3
+num_epochs: 2000
+seed: 37

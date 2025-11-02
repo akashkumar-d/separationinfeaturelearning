@@ -1,0 +1,8 @@
+optimizer: SingleDeviceMuon
+weight_decay: 0.0
+momentum: 0.0
+lr: 0.01
+batch_size: 256
+num_repeats: 3
+num_epochs: 2000
+seed: 37
